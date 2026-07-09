@@ -216,9 +216,9 @@
 ## 📊 GitHub Stats
 
 <!-- Trophy Board -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=H-Yeasin&theme=darkhub&no-frame=true&column=7&margin-w=8" alt="GitHub Trophies" />
-</p>
+</p> -->
 
 <!-- Stats Cards (auto-refreshed daily) -->
 <div align="center">
