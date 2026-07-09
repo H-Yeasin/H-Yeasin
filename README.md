@@ -52,9 +52,9 @@ I build products that sit at the intersection of **mobile engineering**, **real-
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%">ss
       <h3>
-        <a href="https://github.com/H-Yeasin/AroggyaPath">🏥 AroggyaPath</a>
+        <a href="https://github.com/H-Yeasin/AroggyaPath.git">🏥 AroggyaPath</a>
       </h3>
       <p><em>Healthcare Platform — Flutter · Firebase · Clean Architecture</em></p>
       <ul>
@@ -114,12 +114,12 @@ I build products that sit at the intersection of **mobile engineering**, **real-
     </td>
     <td width="50%">
       <h3>
-        <a href="https://github.com/H-Yeasin/Valmis">🔐 Valmis — AI Security Agent</a>
-      </h3>
-      <p><em>Security Tool — Python · AI/ML</em></p>
+        <a href="https://github.com/H-Yeasin/promptIR">🔐 promptIR — Personal Prompt Engineer</a>
+        </h3>
+      <p><em>AI/ML</em></p>
       <ul>
-        <li>Phishing link detection using ML models (PyCaret)</li>
-        <li>Flask REST API for real-time URL threat scoring</li>
+        <li>11+ intent presets (optimize, debug, refactor, security audit) with workspace-aware context gathering</li>
+        <li>VS Code extension using compiler-style IR to transform rough intent into structured agent-ready prompts</li>
       </ul>
     </td>
   </tr>
