@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="292" viewBox="0 0 430 292">
+  <rect x="0" y="0" width="430" height="292" rx="12" fill="#0D1117" stroke="#30363D" stroke-width="1.5"/>
+  <text x="20" y="32" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#F0F6FC">Top Languages</text>
+  <text x="20" y="70" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#C9D1D9">Dart</text>
+  <rect x="130" y="57" width="116.46092497514054" height="16" rx="3" fill="#00B4AB"/>
+  <text x="254.46092497514053" y="70" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8B949E">50.6%</text>
+  <text x="20" y="106" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#C9D1D9">TypeScript</text>
+  <rect x="130" y="93" width="57.80105322970148" height="16" rx="3" fill="#3178C6"/>
+  <text x="195.8010532297015" y="106" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8B949E">25.1%</text>
+  <text x="20" y="142" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#C9D1D9">HTML</text>
+  <rect x="130" y="129" width="35.984029060210645" height="16" rx="3" fill="#E34C26"/>
+  <text x="173.98402906021064" y="142" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8B949E">15.6%</text>
+  <text x="20" y="178" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#C9D1D9">CSS</text>
+  <rect x="130" y="165" width="14.599914767538607" height="16" rx="3" fill="#563D7C"/>
+  <text x="152.59991476753862" y="178" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8B949E">6.3%</text>
+  <text x="20" y="214" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#C9D1D9">Python</text>
+  <rect x="130" y="201" width="3.428272825050226" height="16" rx="3" fill="#3572A5"/>
+  <text x="141.42827282505021" y="214" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8B949E">1.5%</text>
+  <text x="20" y="250" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#C9D1D9">C++</text>
+  <rect x="130" y="237" width="2" height="16" rx="3" fill="#F34B7D"/>
+  <text x="140" y="250" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8B949E">0.8%</text>
+</svg>

@@ -1,0 +1,40 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    # Runs daily at 07:17 UTC (avoids the :00 / :30 peak)
+    - cron: "17 7 * * *"
+  workflow_dispatch: # allow manual trigger from the Actions tab
+  push:
+    paths:
+      - "scripts/fetchGitHubStatus.js" # re-run when the script itself changes
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Fetch stats & render SVGs
+        run: node scripts/fetchGitHubStatus.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit updated SVGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add stats/stats.svg stats/top-langs.svg
+          if git diff --staged --quiet; then
+            echo "No changes — stats are already up to date."
+          else
+            git commit -m "chore: refresh GitHub stats SVGs"
+            git push
+          fi

@@ -32,10 +32,13 @@ I bridge the gap between complex engineering and intuitive user experience. With
 ---
 
 ### 📊 GitHub Status
+
+<!-- Auto-refreshed daily via scripts/fetchGitHubStatus.js + GitHub Actions -->
 <div align="left">
-  <img src="./stats/stats.svg" height="150" alt="Stats Graph" />
-  <img src="./stats/top-langs.svg" height="150" alt="Top Languages" />
+  <img src="./stats/stats.svg" height="180" alt="GitHub Stats — repos, stars, followers, contributions" />
+  <img src="./stats/top-langs.svg" height="180" alt="Top Languages by byte count" />
 </div>
+<sub>↻ Refreshed daily · [view script](scripts/fetchGitHubStatus.js) · [view workflow](.github/workflows/update-stats.yml)</sub>
 
 
 ---
