@@ -19,9 +19,9 @@ I bridge the gap between complex engineering and intuitive user experience. With
 
 | Project | Tech Stack | Key Results & Impact | Links |
 | :--- | :--- | :--- | :--- |
-| **3D Interactive Companion**<br>*(Language Learning Module)* | **Flutter, iOS SceneKit, Web ModelViewer** | • Achieved **60fps** hybrid rendering on iOS.<br>• Implemented **real-time lip-syncing** with TTS.<br>• Reduced app size by streaming assets. | [**View Demo**](https://yeasin84.github.io/myPortfolio/)<br>[**Read Case Study**](LINK_TO_ARTICLE) |
+| **3D Interactive Companion**<br>*(Language Learning Module)* | **Flutter, iOS SceneKit, Web ModelViewer** | • Achieved **60fps** hybrid rendering on iOS.<br>• Implemented **real-time lip-syncing** with TTS.<br>• Reduced app size by streaming assets. | [**View Demo**](https://H-Yeasin.github.io/myPortfolio/)<br>[**Read Case Study**](LINK_TO_ARTICLE) |
 | **AroggyaPath**<br>*(Healthcare Platform)* | **Flutter, Firebase, Clean Architecture** | • Engineered scalable **real-time doctor booking**.<br>• Decoupled UI/Logic for **100% testability**.<br>• Integrated FCM for instant notifications. | [**APK**](LINK_TO_APK)<br>[**Repository**](LINK_TO_REPO) |
-| **Developer Portfolio**<br>*(Personal Brand)* | **Flutter Web, GitHub Actions** | • **Zero-downtime** automated deployment.<br>• Responsive design across Mobile, Tablet, & Web.<br>• **CI/CD Pipeline** integrated. | [**Live Site**](https://yeasin84.github.io/myPortfolio/)<br>[**Repository**](https://github.com/Yeasin84/myPortfolio) |
+| **Developer Portfolio**<br>*(Personal Brand)* | **Flutter Web, GitHub Actions** | • **Zero-downtime** automated deployment.<br>• Responsive design across Mobile, Tablet, & Web.<br>• **CI/CD Pipeline** integrated. | [**Live Site**](https://H-Yeasin.github.io/myPortfolio/)<br>[**Repository**](https://github.com/H-Yeasin/myPortfolio) |
 
 ---
 
@@ -31,7 +31,7 @@ I bridge the gap between complex engineering and intuitive user experience. With
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Status
 <div align="left">
   <img src="./stats/stats.svg" height="150" alt="Stats Graph" />
   <img src="./stats/top-langs.svg" height="150" alt="Top Languages" />
