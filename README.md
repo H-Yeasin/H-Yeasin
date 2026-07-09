@@ -54,7 +54,7 @@ I build products that sit at the intersection of **mobile engineering**, **real-
   <tr>
     <td width="50%">ss
       <h3>
-        <a href="https://github.com/H-Yeasin/AroggyaPath.git">🏥 AroggyaPath</a>
+        <a href="https://github.com/H-Yeasin/AroggyaPath">🏥 AroggyaPath</a>
       </h3>
       <p><em>Healthcare Platform — Flutter · Firebase · Clean Architecture</em></p>
       <ul>
@@ -66,7 +66,7 @@ I build products that sit at the intersection of **mobile engineering**, **real-
     </td>
     <td width="50%">
       <h3>
-        <a href="https://github.com/H-Yeasin/Lungulu">🗣️ Lungulu — Language Learning</a>
+        <a href="https://github.com/H-Yeasin/Language_Learning_APP">🗣️ Lungulu — Language Learning</a>
       </h3>
       <p><em>EdTech App — Flutter · 3D Avatars · Speech Recognition</em></p>
       <ul>
@@ -80,7 +80,7 @@ I build products that sit at the intersection of **mobile engineering**, **real-
   <tr>
     <td width="50%">
       <h3>
-        <a href="https://github.com/H-Yeasin/ClassPulse">📚 ClassPulse LMS</a>
+        <a href="https://github.com/H-Yeasin/app_classpulseLMS">📚 ClassPulse LMS</a>
       </h3>
       <p><em>Learning Management — Flutter · Node.js · Socket.io · MongoDB</em></p>
       <ul>
@@ -91,7 +91,7 @@ I build products that sit at the intersection of **mobile engineering**, **real-
     </td>
     <td width="50%">
       <h3>
-        <a href="https://github.com/H-Yeasin/LetzGo">✈️ LetzGo</a>
+        <a href="https://github.com/H-Yeasin/letzgo_frontend">✈️ LetzGo</a>
       </h3>
       <p><em>Travel & Navigation — Flutter · Python Backend</em></p>
       <ul>
