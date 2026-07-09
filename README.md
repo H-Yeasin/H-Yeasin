@@ -66,7 +66,7 @@ I build products that sit at the intersection of **mobile engineering**, **real-
     </td>
     <td width="50%">
       <h3>
-        <a href="https://github.com/H-Yeasin/promptIR">🔐 promptIR — Personal Prompt Engineer</a>
+        <a href="https://github.com/H-Yeasin/promptIR">👨‍🚒 promptIR — Personal Prompt Engineer</a>
         </h3>
       <p><em>AI/ML</em></p>
       <ul>
