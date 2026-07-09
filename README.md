@@ -66,14 +66,12 @@ I build products that sit at the intersection of **mobile engineering**, **real-
     </td>
     <td width="50%">
       <h3>
-        <a href="https://github.com/H-Yeasin/Language_Learning_APP">🗣️ Lungulu — Language Learning</a>
-      </h3>
-      <p><em>EdTech App — Flutter · 3D Avatars · Speech Recognition</em></p>
+        <a href="https://github.com/H-Yeasin/promptIR">🔐 promptIR — Personal Prompt Engineer</a>
+        </h3>
+      <p><em>AI/ML</em></p>
       <ul>
-        <li>Interactive 3D avatars with real-time lip-syncing via TTS</li>
-        <li>Speech recognition for pronunciation scoring</li>
-        <li>Gamified progress tracking with streaks & rewards</li>
-        <li>Hybrid rendering at 60fps (iOS SceneKit + Web ModelViewer)</li>
+        <li>11+ intent presets (optimize, debug, refactor, security audit) with workspace-aware context gathering</li>
+        <li>VS Code extension using compiler-style IR to transform rough intent into structured agent-ready prompts</li>
       </ul>
     </td>
   </tr>
@@ -91,6 +89,18 @@ I build products that sit at the intersection of **mobile engineering**, **real-
     </td>
     <td width="50%">
       <h3>
+        <a href="https://github.com/H-Yeasin/findanimalApp">🌍 FindAnimal</a>
+      </h3>
+      <p><em>Community Platform — Flutter · Riverpod · Firebase · Google Maps</em></p>
+      <ul>
+        <li>Report animals in need with geolocation & photo upload</li>
+        <li>Connect with community, associations, and partner services</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>
         <a href="https://github.com/H-Yeasin/letzgo_frontend">✈️ LetzGo</a>
       </h3>
       <p><em>Travel & Navigation — Flutter · Python Backend</em></p>
@@ -100,26 +110,16 @@ I build products that sit at the intersection of **mobile engineering**, **real-
         <li>REST API with booking & payment integration</li>
       </ul>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>
-        <a href="https://github.com/H-Yeasin/Geospoof">🌍 Geospoof</a>
+        <a href="https://github.com/H-Yeasin/Language_Learning_APP">🗣️ Lungulu — Language Learning</a>
       </h3>
-      <p><em>Browser Extension — JavaScript · Multi-Browser</em></p>
+      <p><em>EdTech App — Flutter · 3D Avatars · Speech Recognition</em></p>
       <ul>
-        <li>VPN & geolocation spoofing across Chrome, Firefox, Edge, Brave, Safari</li>
-        <li>Privacy-first architecture with minimal permissions</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>
-        <a href="https://github.com/H-Yeasin/promptIR">🔐 promptIR — Personal Prompt Engineer</a>
-        </h3>
-      <p><em>AI/ML</em></p>
-      <ul>
-        <li>11+ intent presets (optimize, debug, refactor, security audit) with workspace-aware context gathering</li>
-        <li>VS Code extension using compiler-style IR to transform rough intent into structured agent-ready prompts</li>
+        <li>Interactive 3D avatars with real-time lip-syncing via TTS</li>
+        <li>Speech recognition for pronunciation scoring</li>
+        <li>Gamified progress tracking with streaks & rewards</li>
+        <li>Hybrid rendering at 60fps (iOS SceneKit + Web ModelViewer)</li>
       </ul>
     </td>
   </tr>
