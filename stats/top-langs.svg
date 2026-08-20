@@ -2,20 +2,20 @@
   <rect x="0" y="0" width="430" height="292" rx="12" fill="#0D1117" stroke="#30363D" stroke-width="1.5"/>
   <text x="20" y="32" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#F0F6FC">Top Languages</text>
   <text x="20" y="70" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#C9D1D9">Dart</text>
-  <rect x="130" y="57" width="117.56831334268311" height="16" rx="3" fill="#00B4AB"/>
-  <text x="255.5683133426831" y="70" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8B949E">51.1%</text>
+  <rect x="130" y="57" width="117.56771809022328" height="16" rx="3" fill="#00B4AB"/>
+  <text x="255.56771809022328" y="70" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8B949E">51.1%</text>
   <text x="20" y="106" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#C9D1D9">TypeScript</text>
-  <rect x="130" y="93" width="60.0068857621678" height="16" rx="3" fill="#3178C6"/>
-  <text x="198.0068857621678" y="106" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8B949E">26.1%</text>
+  <rect x="130" y="93" width="60.00658194521796" height="16" rx="3" fill="#3178C6"/>
+  <text x="198.00658194521796" y="106" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8B949E">26.1%</text>
   <text x="20" y="142" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#C9D1D9">HTML</text>
-  <rect x="130" y="129" width="35.91330015341073" height="16" rx="3" fill="#E34C26"/>
-  <text x="173.91330015341072" y="142" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8B949E">15.6%</text>
+  <rect x="130" y="129" width="35.91311832312288" height="16" rx="3" fill="#E34C26"/>
+  <text x="173.9131183231229" y="142" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8B949E">15.6%</text>
   <text x="20" y="178" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#C9D1D9">CSS</text>
-  <rect x="130" y="165" width="11.22232404599284" height="16" rx="3" fill="#563D7C"/>
-  <text x="149.22232404599285" y="178" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8B949E">4.9%</text>
+  <rect x="130" y="165" width="11.22226722697585" height="16" rx="3" fill="#563D7C"/>
+  <text x="149.22226722697584" y="178" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8B949E">4.9%</text>
   <text x="20" y="214" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#C9D1D9">Python</text>
-  <rect x="130" y="201" width="3.5529013867722483" height="16" rx="3" fill="#3572A5"/>
-  <text x="141.55290138677225" y="214" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8B949E">1.5%</text>
+  <rect x="130" y="201" width="3.5528833983089463" height="16" rx="3" fill="#3572A5"/>
+  <text x="141.55288339830895" y="214" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8B949E">1.5%</text>
   <text x="20" y="250" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#C9D1D9">JavaScript</text>
   <rect x="130" y="237" width="2" height="16" rx="3" fill="#F1E05A"/>
   <text x="140" y="250" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8B949E">0.8%</text>
