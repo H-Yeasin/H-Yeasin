@@ -2,21 +2,21 @@
   <rect x="0" y="0" width="430" height="292" rx="12" fill="#0D1117" stroke="#30363D" stroke-width="1.5"/>
   <text x="20" y="32" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#F0F6FC">Top Languages</text>
   <text x="20" y="70" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#C9D1D9">PHP</text>
-  <rect x="130" y="57" width="94.5545687430541" height="16" rx="3" fill="#4F5D95"/>
-  <text x="232.55456874305412" y="70" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8B949E">41.1%</text>
+  <rect x="130" y="57" width="94.10808226849976" height="16" rx="3" fill="#4F5D95"/>
+  <text x="232.10808226849974" y="70" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8B949E">40.9%</text>
   <text x="20" y="106" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#C9D1D9">Dart</text>
-  <rect x="130" y="93" width="60.086953041119635" height="16" rx="3" fill="#00B4AB"/>
-  <text x="198.08695304111964" y="106" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8B949E">26.1%</text>
+  <rect x="130" y="93" width="59.88852932285723" height="16" rx="3" fill="#00B4AB"/>
+  <text x="197.88852932285724" y="106" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8B949E">26.0%</text>
   <text x="20" y="142" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#C9D1D9">TypeScript</text>
-  <rect x="130" y="129" width="32.17472075194485" height="16" rx="3" fill="#3178C6"/>
-  <text x="170.17472075194485" y="142" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8B949E">14.0%</text>
+  <rect x="130" y="129" width="33.01066903495966" height="16" rx="3" fill="#3178C6"/>
+  <text x="171.01066903495968" y="142" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8B949E">14.4%</text>
   <text x="20" y="178" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#C9D1D9">Kotlin</text>
-  <rect x="130" y="165" width="20.372322891747817" height="16" rx="3" fill="#A97BFF"/>
-  <text x="158.3723228917478" y="178" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8B949E">8.9%</text>
+  <rect x="130" y="165" width="20.279930357188885" height="16" rx="3" fill="#A97BFF"/>
+  <text x="158.27993035718887" y="178" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8B949E">8.8%</text>
   <text x="20" y="214" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#C9D1D9">HTML</text>
-  <rect x="130" y="201" width="16.70715684981823" height="16" rx="3" fill="#E34C26"/>
-  <text x="154.70715684981823" y="214" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8B949E">7.3%</text>
+  <rect x="130" y="201" width="16.63225924372406" height="16" rx="3" fill="#E34C26"/>
+  <text x="154.63225924372406" y="214" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8B949E">7.2%</text>
   <text x="20" y="250" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#C9D1D9">Python</text>
-  <rect x="130" y="237" width="6.1042777223153575" height="16" rx="3" fill="#3572A5"/>
-  <text x="144.10427772231535" y="250" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8B949E">2.7%</text>
+  <rect x="130" y="237" width="6.080529772770411" height="16" rx="3" fill="#3572A5"/>
+  <text x="144.0805297727704" y="250" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8B949E">2.6%</text>
 </svg>
